@@ -1,5 +1,5 @@
 <x-app-layout>
-  <div class="note-conainer">
+  <div class="note-conainer py-12">
     <a href="{{ route("note.create") }}" class="new-note-btn">
       New Note
     </a>
